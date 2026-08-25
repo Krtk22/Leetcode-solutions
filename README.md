@@ -102,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/Krtk22/Leetcode-solutions/tree/master/0684-redundant-connection) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Krtk22/Leetcode-solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
