@@ -1,30 +1,34 @@
 class Solution {
 public:
-    // BRUTE FORCE
+    // OPTIMIZED (SLIDING WINDOW)
     string shortestBeautifulSubstring(string s, int k) {
         int n = s.size();
 
-        for(int len = k; len <= n; len++) {
-            string result = "";
+        int i = 0;
+        int j = 0;
+        int ones = 0;
 
-            for(int start = 0; start <= n - len; start++) {
-                string temp = s.substr(start, len);
+        string result = "";
 
-                int ones = 0;
-                for(char& ch : temp) {
-                    if(ch == '1') {
-                        ones++;
-                    }
-                }
+        while(j < n) {
+            if(s[j] == '1') ones++;
 
-                if(ones == k) {
-                    if(result.empty() || temp < result) {
-                        result = temp;
-                    }
+            while(ones > k || s[i] == '0') {
+                if(s[i] == '1') ones--;
+                i++;
+            }
+
+            if(ones == k) {
+                string temp = s.substr(i, j - i + 1);
+
+                if(result.empty() || result.size() > j - i + 1 || (temp.size() == result.size() && temp < result)) {
+                    result = temp;
                 }
             }
-            if(!result.empty()) return result;
+
+            j++;
         }
-        return "";
+
+        return result;
     }
 };
