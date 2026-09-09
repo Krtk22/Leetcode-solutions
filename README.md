@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Krtk22/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Krtk22/Leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0115-distinct-subsequences](https://github.com/Krtk22/Leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/Krtk22/Leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Krtk22/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Krtk22/Leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Krtk22/Leetcode-solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Krtk22/Leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Krtk22/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Krtk22/Leetcode-solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Krtk22/Leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Linked List
