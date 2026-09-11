@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Krtk22/Leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Krtk22/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Krtk22/Leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Krtk22/Leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Krtk22/Leetcode-solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Krtk22/Leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Krtk22/Leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Krtk22/Leetcode-solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Krtk22/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Krtk22/Leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Krtk22/Leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Krtk22/Leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/Krtk22/Leetcode-solutions/tree/master/3731-find-missing-elements) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Krtk22/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Krtk22/Leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Krtk22/Leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Krtk22/Leetcode-solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Krtk22/Leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Krtk22/Leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -192,4 +195,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Krtk22/Leetcode-solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
+## Recursion
+|  |
+| ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/Krtk22/Leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/Krtk22/Leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
