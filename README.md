@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Krtk22/Leetcode-solutions/tree/master/0115-distinct-subsequences) |
+| [0300-longest-increasing-subsequence](https://github.com/Krtk22/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0940-distinct-subsequences-ii](https://github.com/Krtk22/Leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Krtk22/Leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Krtk22/Leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krtk22/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0300-longest-increasing-subsequence](https://github.com/Krtk22/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0835-image-overlap](https://github.com/Krtk22/Leetcode-solutions/tree/master/0835-image-overlap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Krtk22/Leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Krtk22/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krtk22/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0300-longest-increasing-subsequence](https://github.com/Krtk22/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Krtk22/Leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Krtk22/Leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Ternary Search
@@ -213,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/Krtk22/Leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Krtk22/Leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Krtk22/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
