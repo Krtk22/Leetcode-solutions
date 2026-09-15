@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Krtk22/Leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/Krtk22/Leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Krtk22/Leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Krtk22/Leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Krtk22/Leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Krtk22/Leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Krtk22/Leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Krtk22/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0940-distinct-subsequences-ii](https://github.com/Krtk22/Leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Krtk22/Leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Krtk22/Leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Krtk22/Leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Array
 |  |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Krtk22/Leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Krtk22/Leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Krtk22/Leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Krtk22/Leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Hash Table
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krtk22/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Krtk22/Leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Prefix Sum
 |  |
 | ------- |
