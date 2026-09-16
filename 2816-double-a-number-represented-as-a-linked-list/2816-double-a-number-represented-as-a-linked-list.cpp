@@ -10,41 +10,29 @@
  */
 class Solution {
 public:
-    ListNode* reverseList(ListNode* head) {
-        ListNode* prev = nullptr;
-        ListNode* curr = head;
-
-        while (curr != nullptr) {
-            ListNode* next = curr -> next; // Store next node
-            curr -> next = prev;      // Reverse current pointer
-            prev = curr;           // Move prev forward
-            curr = next;           // Move curr forward
+    int solve(ListNode* head) {
+        if(head == nullptr) {
+            return 0;
         }
-        return prev; // New head
+        int carry = solve(head -> next);
 
+        int val = (head -> val) * 2 + carry;
+        
+        head -> val = val % 10;
+        carry = val / 10;
+        return carry;
     }
+    
 
     ListNode* doubleIt(ListNode* head) {
-    
-        ListNode* newList = reverseList(head);
-        
-        int carry = 0;
-        ListNode* temp = newList;
-        ListNode* last = nullptr;
+        ListNode* newList = head;
 
-        while(temp != NULL) {
+        int temp = solve(newList);
+        if(temp == 0) return head;
 
-            int value = temp->val * 2 + carry;
-            temp->val = value % 10;
-            carry = value / 10;
+        ListNode* dummy = new ListNode(temp);
+        dummy -> next = head;
+        return dummy;
 
-            last = temp;
-            temp = temp->next;
-        }
-        if(carry != 0) {
-            last -> next = new ListNode(carry);
-        }
-
-        return reverseList(newList);
     }
 };
