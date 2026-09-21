@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Krtk22/Leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Krtk22/Leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Krtk22/Leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3524-find-x-value-of-array-i](https://github.com/Krtk22/Leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
 ## Array
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Krtk22/Leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Krtk22/Leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Krtk22/Leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3524-find-x-value-of-array-i](https://github.com/Krtk22/Leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Krtk22/Leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Krtk22/Leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Krtk22/Leetcode-solutions/tree/master/3731-find-missing-elements) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Krtk22/Leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Krtk22/Leetcode-solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Krtk22/Leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3524-find-x-value-of-array-i](https://github.com/Krtk22/Leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Krtk22/Leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/Krtk22/Leetcode-solutions/tree/master/3870-count-commas-in-range) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Krtk22/Leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
