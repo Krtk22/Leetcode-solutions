@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Krtk22/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Krtk22/Leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0115-distinct-subsequences](https://github.com/Krtk22/Leetcode-solutions/tree/master/0115-distinct-subsequences) |
+| [0412-fizz-buzz](https://github.com/Krtk22/Leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0940-distinct-subsequences-ii](https://github.com/Krtk22/Leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Krtk22/Leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Krtk22/Leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Krtk22/Leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Krtk22/Leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Krtk22/Leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Krtk22/Leetcode-solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Krtk22/Leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [2390-removing-stars-from-a-string](https://github.com/Krtk22/Leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Krtk22/Leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3834-merge-adjacent-equal-elements](https://github.com/Krtk22/Leetcode-solutions/tree/master/3834-merge-adjacent-equal-elements) |
