@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Krtk22/Leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0113-path-sum-ii](https://github.com/Krtk22/Leetcode-solutions/tree/master/0113-path-sum-ii) |
+| [0797-all-paths-from-source-to-target](https://github.com/Krtk22/Leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 ## Tree
 |  |
 | ------- |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Krtk22/Leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Krtk22/Leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0684-redundant-connection](https://github.com/Krtk22/Leetcode-solutions/tree/master/0684-redundant-connection) |
+| [0797-all-paths-from-source-to-target](https://github.com/Krtk22/Leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Krtk22/Leetcode-solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Krtk22/Leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Krtk22/Leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Krtk22/Leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0684-redundant-connection](https://github.com/Krtk22/Leetcode-solutions/tree/master/0684-redundant-connection) |
+| [0797-all-paths-from-source-to-target](https://github.com/Krtk22/Leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [1609-even-odd-tree](https://github.com/Krtk22/Leetcode-solutions/tree/master/1609-even-odd-tree) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Krtk22/Leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Tree
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/Krtk22/Leetcode-solutions/tree/master/0684-redundant-connection) |
+| [0797-all-paths-from-source-to-target](https://github.com/Krtk22/Leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 ## Database
 |  |
 | ------- |
@@ -283,4 +287,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Krtk22/Leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/Krtk22/Leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
