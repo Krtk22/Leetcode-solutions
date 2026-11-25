@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Krtk22/Leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0835-image-overlap](https://github.com/Krtk22/Leetcode-solutions/tree/master/0835-image-overlap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Krtk22/Leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Krtk22/Leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Krtk22/Leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Krtk22/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Krtk22/Leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Krtk22/Leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0684-redundant-connection](https://github.com/Krtk22/Leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0797-all-paths-from-source-to-target](https://github.com/Krtk22/Leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Krtk22/Leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1609-even-odd-tree](https://github.com/Krtk22/Leetcode-solutions/tree/master/1609-even-odd-tree) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Krtk22/Leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Tree
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/Krtk22/Leetcode-solutions/tree/master/0835-image-overlap) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Krtk22/Leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Krtk22/Leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Two Pointers
 |  |
