@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Krtk22/Leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Krtk22/Leetcode-solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Krtk22/Leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3360-stone-removal-game](https://github.com/Krtk22/Leetcode-solutions/tree/master/3360-stone-removal-game) |
 | [3524-find-x-value-of-array-i](https://github.com/Krtk22/Leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Krtk22/Leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Krtk22/Leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Krtk22/Leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [2390-removing-stars-from-a-string](https://github.com/Krtk22/Leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Krtk22/Leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/Krtk22/Leetcode-solutions/tree/master/3360-stone-removal-game) |
 | [3834-merge-adjacent-equal-elements](https://github.com/Krtk22/Leetcode-solutions/tree/master/3834-merge-adjacent-equal-elements) |
 ## Union-Find
 |  |
